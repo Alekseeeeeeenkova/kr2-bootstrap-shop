@@ -32,3 +32,36 @@
 - GitHub.
 
 ## Структура проекта
+kr2-bootstrap-shop/
+├── index.html
+├── css/
+│ └── custom.css
+├── images/
+├── README.md
+└── .gitignore
+
+## Практическая работа 10
+
+Выполнено:
+
+- созданы страницы `catalog.html`, `product.html`, `order.html`;
+- единая Bootstrap-навигация (`navbar`) на всех страницах;
+- компонент `card` для карточек товаров;
+- кнопки `btn`, `btn-primary`, `btn-outline-primary`;
+- значки `badge` для меток («Новинка», «Хит», «Скидка»);
+- сообщения `alert`;
+- модальное окно `modal` для быстрой заявки;
+- форма заявки с `form-control`, `form-select`, `input-group`, `form-check`;
+- компонент `accordion` на странице товара.
+
+## Структура проекта
+kr2-bootstrap-shop/
+├── index.html
+├── catalog.html
+├── product.html
+├── order.html
+├── css/
+│ └── custom.css
+├── images/
+├── README.md
+└── .gitignore
