@@ -65,3 +65,28 @@ kr2-bootstrap-shop/
 ├── images/
 ├── README.md
 └── .gitignore
+
+## Практическая работа 11
+
+Проект подготовлен к сдаче КР №2.
+
+**Самостоятельные доработки:**
+- Добавлен дополнительный Bootstrap-компонент `carousel` (карусель) на главную страницу.
+- Добавлены 4 страницы (`index`, `catalog`, `product`, `order`).
+- Улучшена визуальная целостность за счёт utility-классов Bootstrap (`shadow-sm`, `bg-light`, `fw-bold`, `text-muted` и др.).
+- Адаптивность проверена через DevTools (ширины 375px, 768px, 1024px).
+
+**Использованные Bootstrap-компоненты:**
+- `navbar` (навигация)
+- `card` (карточки товаров)
+- `btn` (кнопки)
+- `badge` (метки «Новинка», «Хит», «Скидка»)
+- `alert` (сообщения)
+- `modal` (модальное окно заявки)
+- `accordion` (частые вопросы)
+- `carousel` (карусель на главной)
+- `form-control`, `form-select`, `input-group`, `form-check` (форма)
+- `breadcrumb` (хлебные крошки)
+- `table` (характеристики)
+
+**Способ подключения Bootstrap:** CDN (jsDelivr).
