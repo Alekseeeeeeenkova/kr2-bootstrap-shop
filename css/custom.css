@@ -5,3 +5,7 @@ body {
 .placeholder-box {
   min-height: 240px;
 }
+
+.placeholder-image {
+  min-height: 320px;
+}
